@@ -1,11 +1,10 @@
 # apiDoc
 
-apiDoc creates a documentation from API descriptions in your source code.
+apiDoc creates documentation from API descriptions in your source code.
 
-[![Build Status](https://travis-ci.org/apidoc/apidoc.svg?branch=master)](https://travis-ci.org/apidoc/apidoc)
 [![Dependency Status](https://david-dm.org/apidoc/apidoc.svg)](https://david-dm.org/apidoc/apidoc)
-[![NPM version](https://badge.fury.io/js/apidoc.svg)](http://badge.fury.io/js/apidoc)
-[![Join the chat at https://gitter.im/apidoc/talk](https://badges.gitter.im/apidoc/talk.svg)](https://gitter.im/apidoc/talk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![NPM version](https://badge.fury.io/js/%40johnny.reina%2Fapidoc.svg)](https://badge.fury.io/js/%40johnny.reina%2Fapidoc)
+
 
 Documentation: [apidocjs.com](http://apidocjs.com)
 

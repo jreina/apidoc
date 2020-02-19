@@ -1,5 +1,5 @@
 {
-  "name": "apidoc",
+  "name": "@johnny.reina/apidoc",
   "version": "0.20.1",
   "description": "RESTful web API Documentation Generator",
   "author": "Peter Rottmann <rottmann@inveris.de>",
@@ -55,6 +55,7 @@
     "webfontloader": "^1.6.28"
   },
   "jshintConfig": {
+    "esversion": 666,
     "camelcase": true,
     "curly": false,
     "eqeqeq": true,
@@ -71,6 +72,7 @@
       "describe",
       "before",
       "after"
-    ]
+    ],
+    "laxbreak": true
   }
 }
